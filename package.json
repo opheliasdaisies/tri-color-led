@@ -1,0 +1,23 @@
+{
+  "name": "tri-color-led",
+  "version": "0.0.0",
+  "description": "",
+  "main": "colors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/opheliasdaisies/tri-color-led.git"
+  },
+  "author": "Opheliasdaisies",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "5b640abb4c3353a896aaeac76254648e3220425b",
+  "bugs": {
+    "url": "https://github.com/opheliasdaisies/tri-color-led/issues"
+  },
+  "dependencies": {
+    "johnny-five": "~0.6.2"
+  }
+}
